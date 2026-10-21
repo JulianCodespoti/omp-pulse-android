@@ -8,6 +8,11 @@ Runs the omp coding agent on your Android phone. No computer needed.
    https://github.com/JulianCodespoti/omp-pulse-android/releases/latest/download/omp-pulse.apk
 2. Open the downloaded file. If Android asks, allow installs from your browser.
    If Play Protect warns about an unknown app, tap **More details → Install anyway**.
+
+   **Download stuck at 100%?** Chrome checks APK files with Google before it
+   saves them, and that check can hang on some networks. Cancel it and open the
+   link in Samsung Internet or Firefox instead, or have someone send you the
+   file directly (WhatsApp, Telegram, email or Nearby Share).
 3. Open **omp-pulse** and tap **Run on this phone**. The first setup downloads
    about 300 MB, so use Wi-Fi. It takes a few minutes.
 4. Sign in to a model provider (for example Anthropic with a Claude Pro/Max
